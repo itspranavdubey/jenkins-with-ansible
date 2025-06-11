@@ -5,5 +5,5 @@
 [tomcatservers]
 localhost ansible_user=ec2-user
 172.31.35.67 ansible_user=ec2-user #host 1
-172.31.12.61 ansible_user=ec2-user #jenkins server
+#172.31.12.61 ansible_user=ec2-user #jenkins server
 172.31.43.28 ansible_user=ec2-user #ansible main server
